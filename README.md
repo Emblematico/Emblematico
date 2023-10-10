@@ -16,6 +16,14 @@ variedade de aplicativos e sites da web de alta qualidade.
 ### Habilidades
 
 <p align="left">
+    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+        width="36" height="36" alt="NextJs" />
+    </a>
+    <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg"
+        width="36" height="36" alt="Oracle" />
+    </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
         width="36" height="36" alt="Python" />
